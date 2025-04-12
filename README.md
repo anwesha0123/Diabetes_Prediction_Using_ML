@@ -35,9 +35,9 @@ The model was evaluated on accuracy, precision, recall, and F1 score, with the b
    ```bash
    git clone https://github.com/yourusername/Diabetes_Prediction_Using_ML.git
 
-2. **enter into the directory**
+2. **Enter into the directory**
    ```bash
-   cd diabetes-prediction
+   cd diabetes_prediction
 
 2. **Install Dependencies**
    ```bash
