@@ -31,19 +31,23 @@ The model was evaluated on accuracy, precision, recall, and F1 score, with the b
 
 ## 📦 How to Run the Streamlit Web App
 
-1. **Clone the Repository**
+1. **Make Directory**
+   ```bash
+   mkdir diabetes_prediction
+   
+2. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/Diabetes_Prediction_Using_ML.git
 
-2. **Enter into the directory**
+3. **Enter into the directory**
    ```bash
    cd diabetes_prediction
 
-2. **Install Dependencies**
+4. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
 
-3. **Run the Streamlit App**
+5. **Run the Streamlit App**
    ```bash
    streamlit run diabetes_webapp.py
  
